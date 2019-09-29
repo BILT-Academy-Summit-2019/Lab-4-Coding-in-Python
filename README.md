@@ -8,14 +8,14 @@ Welcome to BILT Academy 2019 Coding in Python!
 
 Python code is organized by sub labs / key learning objective
 * [Lab_4.1](https://github.com/BILT-Academy-Summit-2019/Lab-4-Coding-in-Python/tree/LAB_4.1): Python basics
-* [Lab_4.2](/Lab_4.2): Python in Revit
-* [Lab_4.3](/Lab_4.3): Door hinges side script
+* [Lab_4.2](https://github.com/BILT-Academy-Summit-2019/Lab-4-Coding-in-Python/tree/LAB_4.2): Python in Revit
+* [Lab_4.3](https://github.com/BILT-Academy-Summit-2019/Lab-4-Coding-in-Python/tree/LAB_4.3): Door hinges side script
 
 #### Handout is available as separate markdown parts in the lab chapters and as 
 complete markdown compilation:
 
-[complete handout](HANDOUT.md)
+[complete handout](https://github.com/BILT-Academy-Summit-2019/Lab-4-Coding-in-Python/blob/LAB_4.1/HANDOUT.md)
 
 The sample model is found in the assets or via this link:
 
-[python beginners tower sample model](model/python_beginners_tower.rvt)
+[python beginners tower sample model](https://github.com/BILT-Academy-Summit-2019/Lab-4-Coding-in-Python/tree/Model)
